@@ -4,3 +4,4 @@ Copyright 2013 Benoit Schweblin (http://www.benoitschweblin.com)
 Licensed under an Apache License (http://www.apache.org/licenses/LICENSE-2.0)
 
 test1
+test2
